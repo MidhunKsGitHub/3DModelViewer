@@ -114,7 +114,7 @@ class ViewerViewModel(
         }
     }
 
-  
+
     fun resize(
         id: String,
         deltaWidth: Float,

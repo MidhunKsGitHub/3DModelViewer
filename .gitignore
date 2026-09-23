@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/keystore
+app/release
+app/proguard-rules.pro
